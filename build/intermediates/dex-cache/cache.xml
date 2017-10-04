@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\5d985033372e1dcc15ecb62e799503c049a69e9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d9e2941222c19d4f77ee16bd2ded495f7388fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\182f8fb8d3930392e3a42477b862eef738ba1e5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_598fcffe80a8532c9a0f13ca40ad95cbeb1c1e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\ef267523f7f00c9f9575b2c87e3f18087815807e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df888d885e98e2bbc10546245cfea8f306090e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91f1061ac5e6561472b5b8cf93ab88af591df913">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2ec557b63de79b46f55f910410ccf179484f2d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\70a1ba7abf8a18cd6b28cab694882805095b2f03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_189551a53fd4c9a29f096a989a4bc9b35b29f68d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_315bc51c9d8f411ccbd4b21dc9b0ddeaabf9f98b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\0eafab9ae5a1b863aea765a25f63f6c561ebe9ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ace1aa0f54f9f7804e85821639dc7020cbb7c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\018d5e1c494e68cbec93c78d0912b22c196726d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_594b679ed2e48dae03fe5d8662e2ba6e8992feb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\10bb1182c41a7e86a7f8b8f130c1cecefe5b9bf4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_470a032a2063ca00409fad1aab92edb4afef7605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6a91c5bbdab1b9f4c9baedcc759b1f97cc4ffce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\e5c30b6e48941622efb82a94c1132089af7b1eac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb1a0855e0710415de932cc3c7f5dcc5c5b3e8d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4601d1e5d69b98a318b85e56a6aef2bc240c79ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\33a4bb7c43c1afa869129e195c55569d0f947959\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33959f4b07c71b10c38e7cd7ddd0cafd239a6be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Floptop\.android\build-cache\747c86f4cd862304c9e1e9dd5e1977ac70725d57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Floptop\AndroidStudioProjects\Hello-world\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6f0ae61fc515c936c8b94f829a1719d2cd85c9b\classes.dex" />
+    </item>
+
+</items>
